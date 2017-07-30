@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/drawable">
+        <file>drawable/ic_close.png</file>
+        <file>drawable/ic_mininum.png</file>
+        <file>drawable/timg.jpg</file>
+        <file>drawable/json_icon.jpg</file>
+        <file>jsonTest.ico</file>
+    </qresource>
+</RCC>
